@@ -1,4 +1,4 @@
-# SQL Clauses and Operators Lab
+# SQL Clauses and Operators
 
 This repository contains beginner-to-intermediate SQL query practice using a small e-commerce database.
 
